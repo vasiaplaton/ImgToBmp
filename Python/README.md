@@ -1,3 +1,6 @@
+```diff
+- Этот файл доступен на русском и называется README_RU.md
+```
 # ImgToBmp:python script
 This is part of my project on python. It's script, that convert image .img to C array of bytes.    
 Programm create 3 files: non.c strip.c rle.c in directory files/(by default). First file it just arrary     

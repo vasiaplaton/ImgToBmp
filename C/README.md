@@ -1,3 +1,6 @@
+```diff
+- Этот файл доступен на русском и называется README_RU.md
+```
 # ImgToBmp:c example and decompress code
 This is part of my project written in C. Here's library Drawing.c and      
 header file Drawing.h and main.c with example paint compressed bitmap.Library        
