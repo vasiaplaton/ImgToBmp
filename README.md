@@ -1,4 +1,6 @@
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Этот файл доступен на русском и называется README_RU.md`
+```diff
+- Этот файл доступен на русском и называется README_RU.md
+```
 # ImgToBmp: convert monochrome images to byte array and lossless compression
 ![Img](/img1.png)
 This is my project that consist of two parts - script on python   
