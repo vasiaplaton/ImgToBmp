@@ -1,4 +1,4 @@
--Этот файл доступен на русском и называется README_RU.md
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Этот файл доступен на русском и называется README_RU.md`
 # ImgToBmp: convert monochrome images to byte array and lossless compression
 ![Img](/img1.png)
 This is my project that consist of two parts - script on python   
@@ -18,7 +18,7 @@ start from begining. All 8 pixels convert to one byte
 We code begining, length, and Y coordinate black strip in image   
 This is method is worked because we code image, not random pixels     
 #### RLE method:
-[Good article on wikipedia about this method]https://en.wikipedia.org/wiki/Run-length_encoding
+[Good article on wikipedia about this method](https://en.wikipedia.org/wiki/Run-length_encoding)
 ### Known limitations
 1. Entropy coding methods (such as the Huffman method) are not used
 2. Monochrome only images only
