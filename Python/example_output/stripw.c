@@ -1,0 +1,1 @@
+const unsigned char strip_comp[3] = { 0X1, 0X0, 0X1,  };
